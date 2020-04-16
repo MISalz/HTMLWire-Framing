@@ -1,0 +1,41 @@
+* {
+    outline: 5px, dotted red;
+    box-sizing: border-box;
+}
+header{
+    background-color: gray;
+    height: 10px;
+    width: auto;
+    box-shadow: gray;
+    padding: 1px;
+    padding-bottom: 10%;
+}
+body {
+}
+nav {
+    width: auto;
+    border-style: solid;
+    vertical-align :auto;
+    margin:5%;
+    padding: 1px;
+}
+blockquote {
+    font-size: 20pt; 
+    text-align: left;
+    position: absolute;
+    float: right;   
+    overflow:scroll;}
+
+button {
+    background-color: #5364a0;
+    box-shadow: black;
+    float: center;
+}
+div img {
+    float: left;
+}
+footer{
+    position:fixed;
+    border-width: 50%;
+    background-color: orangered;
+}
