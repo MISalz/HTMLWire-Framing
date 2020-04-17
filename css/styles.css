@@ -1,0 +1,58 @@
+header {
+    background-color: gray;
+    padding: 1em;
+}
+nav img {
+    border: 1ch;
+    vertical-align: center;
+    border-spacing: 10px;
+}
+body {
+    content: center;
+    border: 1ch;
+    padding: 8ch;
+    padding-bottom: 20em;
+}
+body img {
+    padding: 8ch;
+    border-spacing: 5px;
+    /* box-align: center; */
+}
+body ul {
+    border: 1ch;
+    vertical-align: center;
+    border-spacing: 20px;
+}
+div {
+    width: inherit;
+    border: 1ch;
+    padding-bottom: 20ch;
+}
+div img {
+    float: left;
+    vertical-align: auto;
+}
+div blockquote {
+    color:black;
+    font-size: 30pt; 
+    text-align: left; 
+    overflow: scroll;
+}
+button {
+    background-color: #08eb8c;
+    box-shadow: black;
+}
+button:hover {    
+    background-color: #130fd3;
+    cursor: pointer;
+    transition: background-color 350ms ease;
+}
+footer {
+    padding-top: inherit;
+    padding: 20px;
+    background-color: grey;
+    color: white;
+    font-size: 5em;
+    text-align: center;
+    align-content: center;
+} 
